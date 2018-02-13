@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "vifisssu",
+    "password": "E7T_nLa0SP-71Ie2V4n9UThzscTOsEo8",
+    "database": "vifisssu",
+    "host": "elmer.db.elephantsql.com",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
